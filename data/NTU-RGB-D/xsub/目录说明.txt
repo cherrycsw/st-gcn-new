@@ -1,0 +1,6 @@
+存放NTU-RGB+D从xsub视图采集的数据集
+包含四个处理好的数据文件：
+val_label.pkl
+val_data.npy
+train_label.pkl
+train_data.npy

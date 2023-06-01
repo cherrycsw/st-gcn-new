@@ -1,0 +1,6 @@
+存放kinetics数据集
+包括四个处理好的数据集文件：
+val_label.pkl
+val_data.npy
+train_label.pkl
+train_data.npy
